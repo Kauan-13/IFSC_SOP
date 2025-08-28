@@ -1,0 +1,1 @@
+int soma_vetor(int *v, int n);
